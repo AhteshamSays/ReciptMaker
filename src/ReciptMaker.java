@@ -30,7 +30,8 @@ public class ReciptMaker {
     private static char key;
 
     public static void main(String args[]){
-       getPayment();
+       System.out.println("\t\t\t Welcome to ABC Retails Pvt. Ltd.");
+       sellService();
     }
 
     /**
